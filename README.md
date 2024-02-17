@@ -3,6 +3,9 @@
 ## PORTFOLIO
 
 
+![Screenshot 2024-02-10 225241](https://github.com/Geetha-SV/CODSOFT/assets/129298991/9a1531e8-45f9-4082-aa9e-82687bde7b7d)
+
 
 ## TASK 2
 ## LANDING PAGE
+
