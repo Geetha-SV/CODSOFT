@@ -9,3 +9,4 @@
 ## TASK 2
 ## LANDING PAGE
 
+![Screenshot 2024-02-11 165342](https://github.com/Geetha-SV/CODSOFT/assets/129298991/9ff6d01c-e744-465c-a865-8bdfd3ac1c06)
