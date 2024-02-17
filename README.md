@@ -13,3 +13,5 @@
 
 ## TASK 3
 ## CALCULATOR
+
+![Screenshot 2024-02-17 205510](https://github.com/Geetha-SV/CODSOFT/assets/129298991/31b82874-c69b-4fbf-8d29-a266dd54f820)
